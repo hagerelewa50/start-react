@@ -1,0 +1,38 @@
+*{
+    padding: 0 ;
+    margin: 0 ;
+    box-sizing: border-box ;
+}
+
+#home{
+    min-height: 100vh;
+    background-color: #4EBD9C;
+}
+h1{
+    font-size: 60px !important;    
+}
+.star{
+    color: #2c3e50;
+}
+.row-style{
+    width: 100px;
+    height: 4px;
+    border-radius: 25px;
+    background-color: #2c3e50;
+    position: absolute;
+    top: 50%;
+    left: 50px;
+}
+.row-styletwo{
+    width: 100px;
+    height: 4px;
+    border-radius: 25px;
+    background-color: #2c3e50;
+    position: absolute;
+    top: 50%;
+    right: 50px;
+}
+.para-home{
+    font-size: 25px;
+    font-weight: 400;
+}

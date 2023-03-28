@@ -1,0 +1,12 @@
+.inputContact,textarea{
+    border: none !important;
+    box-shadow: none !important;
+    border-bottom: 1px solid #e9ecef !important;
+    font-size: 25px !important;
+    color: #495057 !important;
+}
+.btnContact{
+    background-color: #4EBD9C !important  ;
+    border: none !important;
+    
+}
