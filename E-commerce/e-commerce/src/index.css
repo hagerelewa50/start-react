@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+:root{
+  --color:#ee9482;
+
+}
+.bg-main{
+  background-color:var(--color);
+}
+.text-main{
+  color: var(--color);
+}
+.cursor-pointer{
+  cursor: pointer;
+
+}
+
+body{
+  font-family: 'Montserrat', sans-serif  !important;
+    background-color: var(--bg-Color) !important;
+
+}
+a{
+  text-decoration: none !important;
+}
+a:hover{
+  color: black;
+}
+.btn:hover{
+  background-color: var(--color)  !important;
+}

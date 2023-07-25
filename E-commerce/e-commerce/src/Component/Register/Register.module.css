@@ -1,0 +1,10 @@
+h3{
+    color: var(--color);
+}
+.btn:hover{
+    background-color: var(--color)  !important;
+}
+.btn:disabled{
+    background-color: var(--color)  !important;
+
+}
